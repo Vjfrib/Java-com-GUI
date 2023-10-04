@@ -15,7 +15,7 @@ public class Main {
         label.setPreferredSize(new Dimension(150, 100));
 
         label.setText("Hello World Swing");
-        label.setText("pede pros caras o codigo deles");
+        label.setText("pede pros caras o codigo deles!");
         label.setHorizontalAlignment(JLabel.CENTER);
         label.setVerticalAlignment(JLabel.CENTER);
 
